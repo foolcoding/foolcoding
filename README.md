@@ -26,6 +26,3 @@
 <img src="https://img.shields.io/badge/ORACLE-7952B3?style=for-the-badge&logoColor=white"> <span></span>
 <img src="https://img.shields.io/badge/SQLITE3-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=foolcoding&theme=radical&hide_border=true" height="150" />
-</div>
