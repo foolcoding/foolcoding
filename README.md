@@ -1,5 +1,9 @@
 ## 안녕하세요👋
 ### 웹 개발자가 되기위해 공부 중입니다.
+- Department of Library and information science
+- developers for big data solutions based on web convergence SW
+- SSAFY 14tH
+<br>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fooling1)](https://solved.ac/fooling1)
 
