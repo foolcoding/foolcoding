@@ -6,7 +6,7 @@
 <br>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fooling1)](https://solved.ac/fooling1)
-  
+
 ## 🛠️ Skills & Tools
 ### Language
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">   <span></span>
@@ -26,4 +26,3 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 <img src="https://streak-stats.demolab.com/?user=hyeonjim&theme=radical&hide_border=true" height="165" />
-
