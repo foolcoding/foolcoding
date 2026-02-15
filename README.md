@@ -18,11 +18,10 @@
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
 ### Frontend
-<img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> <span></span>
-<img src="https://img.shields.io/badge/VUE-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <span></span>
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">  <span></span>
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 
 ### Database
 <img src="https://img.shields.io/badge/ORACLE-7952B3?style=for-the-badge&logoColor=white"> <span></span>
-<img src="https://img.shields.io/badge/SQLITE3-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
