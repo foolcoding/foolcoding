@@ -5,6 +5,11 @@
 - SSAFY 14th
 <br>
 
+## 🏆 수상 이력
+- 🥉 삼성 청년 SW·AI 아카데미 [특화 프로젝트](링크) 우수상 / 부울경 1반 1등 (2026.04.01)
+- 🥇 삼성 청년 SW·AI 아카데미 [공통 프로젝트][(https://github.com/foolcoding/SudaDUCK) 우수상 / 부울경 1반 2등 (2026.02.09)
+- 🥇 웹 융합 SW 기반 빅데이터 솔루션 개발자 양성 [최종 프로젝트](https://github.com/foolcoding/itbankProject) 2등
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fooling1)](https://solved.ac/fooling1)
 
 ## 🛠️ Skills & Tools
