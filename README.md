@@ -1,5 +1,4 @@
-## 안녕하세요👋
-### 웹 개발자가 되기위해 공부 중입니다.
+## 성장하는 웹 개발자가 되기위해 꾸준히 공부 중입니다.
 - Department of Library and information science
 - developers for big data solutions based on web convergence SW
 - SSAFY 14th
