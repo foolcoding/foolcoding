@@ -5,9 +5,9 @@
 <br>
 
 ## 🏆 수상 이력
-- 🥉 삼성 청년 SW·AI 아카데미 [자율 프로젝트](링크) 우수상 / 2등 (2026.05.21)
-- 🥉 삼성 청년 SW·AI 아카데미 [특화 프로젝트](https://github.com/foolcoding/Piview) 우수상 / 1등 (2026.04.01)
 - 🥇 삼성 청년 SW·AI 아카데미 [공통 프로젝트](https://github.com/foolcoding/SudaDUCK) 우수상 / 2등 (2026.02.09)
+- 🥉 삼성 청년 SW·AI 아카데미 [특화 프로젝트](https://github.com/foolcoding/Piview) 우수상 / 1등 (2026.04.01)
+- 🥉 삼성 청년 SW·AI 아카데미 [자율 프로젝트](https://github.com/foolcoding/Happynurse) 우수상 / 2등 (2026.05.21)
 - 🥇 웹 융합 SW 기반 빅데이터 솔루션 개발자 양성 [최종 프로젝트](https://github.com/foolcoding/itbankProject) 2등 (2024.04.01)
 <br>
 
