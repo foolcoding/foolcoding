@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/foolcoding/foolcoding@main/neon-banner.svg" alt="Hi, I'm Hyeonwoong - Backend Developer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a14,100:1a0033&height=200&section=header&text=Hi%2C%20I'm%20Hyeonwoong&fontSize=52&fontColor=FF2EC4&fontAlignY=48&stroke=00F0FF&strokeWidth=2&desc=BACKEND%20DEVELOPER&descSize=16&descAlignY=70&animation=blinking" width="100%"/>
 
 </div>
 
