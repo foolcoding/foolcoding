@@ -15,6 +15,18 @@
 
 <br>
 
+## 🏆 Awards
+
+| 수상 | 주관 | 일자 |
+| :--- | :--- | :---: |
+| 특화 프로젝트 (Piview) 우수상 1위 | 삼성 청년 SW·AI 아카데미 | 2026.03 |
+| 자율 프로젝트 (HappyNurse) 우수상 2위 | 삼성 청년 SW·AI 아카데미 | 2026.05 |
+| 공통 프로젝트 (SudaDUCK) 우수상 2위 | 삼성 청년 SW·AI 아카데미 | 2026.02 |
+| 최종 프로젝트 (우리 동네 편의점) 우수상 2위 | 웹 융합 SW 빅데이터 솔루션 양성과정 | 2024.04 |
+| 우수훈련생 우수상 · 우수인재추천 | KG ITBANK (부산) | 2024.04 |
+
+<br>
+
 ## 🛠️ Skills & Tools
 
 | 분류 | 기술 |
@@ -30,24 +42,12 @@
 
 ## 🚀 Featured Projects
 
-| 프로젝트                                                                            | 한 줄 소개                          | 기술 스택                                                    | 담당 역할                                                                        |
-| :---------------------------------------------------------------------------------- | :---------------------------------- | :----------------------------------------------------------- | :------------------------------------------------------------------------------- |
-| <h3><a href="https://github.com/foolcoding/Piview">Piview</a></h3>                  | 화장품 성분 기반 개인화 추천 서비스 | `Next.js` `TypeScript` `Spring Boot` `Django` `ChromaDB`     | 프론트 주도 · Protobuf API 역분석 크롤러로 22,000건 수집 · 성분 기반 유수분 분류 |
-| <h3><a href="https://github.com/foolcoding/SudaDUCK">SudaDUCK</a></h3>              | 실시간 음성 번역·학습 서비스        | `Java` `Spring Boot` `Redis` `OpenVidu` `OpenAI`             | 비동기 음성 파이프라인 설계 · 동시 요청 실측 기반 스레드풀·백프레셔 튜닝         |
-| <h3><a href="https://github.com/foolcoding/Happynurse">HappyNurse</a></h3>          | 간호 업무 지원 EMR + 안드로이드 앱  | `Kotlin` `Jetpack Compose` `Wear OS` `Spring Boot` `FastAPI` | 안드로이드 앱(NFC 환자 태깅·API 연동) · 음성 STT 정제 AI · 웹·모바일 연동 체계   |
-| <h3><a href="https://github.com/foolcoding/itbankProject">우리 동네 편의점</a></h3> | 주문·결제 커머스 플랫폼             | `Spring` `Oracle` `MyBatis` `Toss Payments`                  | 팀 리더 · DB 설계 · 결제·쿠폰·재고를 하나의 트랜잭션으로 묶고 멱등성 구현        |
-
-<br>
-
-## 🏆 Awards
-
-| 수상 | 주관 | 일자 |
-| :--- | :--- | :---: |
-| 특화 프로젝트 (Piview) 우수상 1위 | 삼성 청년 SW·AI 아카데미 | 2026.03 |
-| 자율 프로젝트 (HappyNurse) 우수상 2위 | 삼성 청년 SW·AI 아카데미 | 2026.05 |
-| 공통 프로젝트 (SudaDUCK) 우수상 2위 | 삼성 청년 SW·AI 아카데미 | 2026.02 |
-| 최종 프로젝트 (우리 동네 편의점) 우수상 2위 | 웹 융합 SW 빅데이터 솔루션 양성과정 | 2024.04 |
-| 우수훈련생 우수상 · 우수인재추천 | KG ITBANK (부산) | 2024.04 |
+| 프로젝트                                                                            | 한 줄 소개                          | 담당 역할                                                                        |
+| :---------------------------------------------------------------------------------- | :---------------------------------- | :------------------------------------------------------------------------------- |
+| <h3><a href="https://github.com/foolcoding/Piview">Piview</a></h3>                  | 화장품 성분 기반 개인화 추천 서비스 | 프론트 주도 · Protobuf API 역분석 크롤러로 22,000건 수집 · 성분 기반 유수분 분류 |
+| <h3><a href="https://github.com/foolcoding/SudaDUCK">SudaDUCK</a></h3>              | 실시간 음성 번역·학습 서비스        | 비동기 음성 파이프라인 설계 · 동시 요청 실측 기반 스레드풀·백프레셔 튜닝         |
+| <h3><a href="https://github.com/foolcoding/Happynurse">HappyNurse</a></h3>          | 간호 업무 지원 EMR + 안드로이드 앱  | 안드로이드 앱(NFC 환자 태깅·API 연동) · 음성 STT 정제 AI · 웹·모바일 연동 체계   |
+| <h3><a href="https://github.com/foolcoding/itbankProject">우리 동네 편의점</a></h3> | 주문·결제 커머스 플랫폼             | 팀 리더 · DB 설계 · 결제·쿠폰·재고를 하나의 트랜잭션으로 묶고 멱등성 구현        |
 
 <br>
 
